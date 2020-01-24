@@ -2,10 +2,10 @@
 A simple password manager which uses hashing and encryption for security
 
 ## Getting Started
-Ensure the following libraries are installed before running:
--cryptography
--hashlib
-*all other libraries used should be included in the python standard libraries
+Ensure the following libraries are installed before running:  
+-cryptography  
+-hashlib  
+*all other libraries used should be included in the python standard libraries  
 To get started, first decide on an admin password. Run the pass_hash.py file to generate the corresponding hash. Paste this hash at the top of the main.py file inside the HASHED_ADMIN constant. 
 
 ### Example installation - (open your python package manager (or cmd) and enter the following:
